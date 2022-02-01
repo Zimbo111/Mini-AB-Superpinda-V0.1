@@ -1,7 +1,7 @@
 # Mini-AB-Superpinda-V0.1
 
 
-Dies ist unser erster Mod "Danke an Georg für die CAD Arbeit" für den Mini Afterburner vom Voron 0.1
+Dies ist unser erster Mod "Danke an Gregor für die CAD Arbeit" für den Mini Afterburner vom Voron 0.1
 
 Mit diesem Mod ist es möglich die Superpinda an der Seite vom Mini AB zu befestigen . 
 
