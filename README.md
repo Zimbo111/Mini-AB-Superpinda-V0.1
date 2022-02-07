@@ -7,7 +7,7 @@ Mit diesem Mod ist es möglich, die Superpinda an der Seite vom Mini AB zu befes
 
 Gedruckt habe ich den Mini AB mit einer Schichthöhe vom 0.20.
 
-Was noch benötigt wird ist ein Heatset Insert "bei Bedarf" und eine Madenschraube in M3 x 10 "hinten flach nicht spitz"
+Was noch benötigt wird ist ein Heatset Insert "bei Bedarf" und eine Schraube in M3 x 20 "hinten flach nicht spitz"
 
 Ich habe etwas einbuße bei den Druckdimensionen . X-Achse Bin ich bei 115 , Y Achse 119 . 
 
