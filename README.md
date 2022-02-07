@@ -13,4 +13,11 @@ Ich habe etwas einbuße bei den Druckdimensionen . X-Achse Bin ich bei 115 , Y A
 
 Ich kann bei Bedarf gern die Einstellungen aus meiner Config teilen. 
 
-![Mini-AB-Mod-Superpinda1](https://user-images.githubusercontent.com/94990057/152061163-2192fc50-9766-4045-8b7e-dbb177c4da82.png)
+![grafik](https://user-images.githubusercontent.com/94990057/152769537-a5123e0b-edaf-4cc5-b799-59aefdcd941c.png)
+
+
+
+Anbei schonmal die Anschlüsse an die die Pinda angeschlossen werden muß : ![grafik](https://user-images.githubusercontent.com/94990057/152768974-4fd04a35-9601-410e-a178-56f7cac757be.png)
+
+
+Dann ist es so das die Pinda nur als Endstop beim Bed Leveling benutzt wird. Im normalen Druckbetrieb ist der Z-Endstop ganz normal in Betrieb.
