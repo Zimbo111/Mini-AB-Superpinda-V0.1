@@ -10,3 +10,4 @@ Gedruckt habe ich den Mini AB mit einer Schichthöhe vom 0.20.
 Was noch benötigt wird ist ein Heatset Insert "bei Bedarf" und eine Madenschraube in M3 x 10 "hinten flach nicht spitz"
 
 ![Mini-AB-Mod-Superpinda1](https://user-images.githubusercontent.com/94990057/152061163-2192fc50-9766-4045-8b7e-dbb177c4da82.png)
+![grafik](https://user-images.githubusercontent.com/94990057/152767189-bc4102d1-8916-4991-8bc0-f74e5f9c6d06.png)
